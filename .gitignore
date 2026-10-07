@@ -1,0 +1,12 @@
+build/ 
+.dart_tool/
+*.apk
+*.zip
+node_modules/
+generated/
+flutter_export_environment.sh
+*.iml
+.idea/
+ios/Pods/
+web/icons/
+
